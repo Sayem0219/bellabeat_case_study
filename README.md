@@ -1,3 +1,3 @@
 # bellabeat_case_study
-This is a protfolio project. Here, Bellabeat wants some insight from a public datasets. By analzing that I recomendet how Bellabeat could take some markeing approach to apply those insight.
-For analysis I used programming language R
+This is a portfolio project. Here, Bellabeat wants some insight from public datasets, by analyzing that I recommended how Bellabeat could take some marketing approach to apply that insight.
+For analysis, I used the programming language R.
